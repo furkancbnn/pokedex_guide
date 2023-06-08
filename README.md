@@ -1,5 +1,5 @@
 ## Pokedex_Guide
 
-# Html-Css-JavaScript
+# Html + Css + JavaScript
 
 ![](POKEDEX-V.gif)
